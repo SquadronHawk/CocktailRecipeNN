@@ -24,4 +24,4 @@ So our model was printing... at least legible results for the most part. But whi
 
 For now, enjoy our menu for this evening:
 
-![cocktail-menu](./images/Blue Floral Pattern Cocktail Menu.jpg)
+![cocktail-menu](./images/cocktail_menu.jpg)
