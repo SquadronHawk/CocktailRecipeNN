@@ -16,8 +16,8 @@ I tested a variety of models, but a single layer of LSTM proved to be the most e
 
 ## Example Outputs after 30-40 epochs
 
-Sucambuec: 25 oz Gin, 0.5 oz Lemon
-Suca Hot Ram: 1 oz Vodka, 1 oz Coffee, 6 oz Hon Cream, 1 oz Orange Juice
-Logld Wines: 0.5 oz Gin, 4 oz Lemon Juice, 0.6 oz Simple Syrup
+- Sucambuec: 25 oz Gin, 0.5 oz Lemon
+- Suca Hot Ram: 1 oz Vodka, 1 oz Coffee, 6 oz Hon Cream, 1 oz Orange Juice
+- Logld Wines: 0.5 oz Gin, 4 oz Lemon Juice, 0.6 oz Simple Syrup
 
 So our model was printing... at least legible results for the most part. But while this is the end of my work here at GA, I will continue to build this out. 
